@@ -7,18 +7,14 @@ body {
 }
 
 #timer {
-  font-size: 40px; /* 65 yerine */
+  font-size: 65px;
   margin: 15px 0;
 }
 
 button {
-  font-size: 14px;
+  font-size: 10px;
   margin: 10px;
-  padding: 10px 25px;
+  padding: 5px 20px;
   cursor: pointer;
-  background-color: #444;
-  color: white;
-  border: none;
-  border-radius: 8px;
 }
 
