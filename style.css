@@ -3,7 +3,7 @@ body {
   background-color: #242424;
   color: #fff;
   text-align: center;
-  padding-top: 20px; /* veya 20px ya da 40px */
+  padding-top: 5px; /* veya 20px ya da 40px */
 }
 
 #timer {
