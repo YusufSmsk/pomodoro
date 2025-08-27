@@ -7,12 +7,12 @@ body {
 }
 
 #timer {
-  font-size: 60px;
-  margin: 20px 0;
+  font-size: 40px;
+  margin: 15px 0;
 }
 
 button {
-  font-size: 20px;
+  font-size: 10px;
   margin: 10px;
   padding: 5px 20px;
   cursor: pointer;
