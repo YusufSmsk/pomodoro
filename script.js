@@ -18,7 +18,9 @@ document.getElementById("start").onclick = function () {
       } else {
         clearInterval(interval);
         interval = null;
-        alert("Süre doldu!");
+        document.getElementById("timer").textContent = "00:00";
+        // Notion masaüstü embed'de alert çalışmaz
+        // alert("Süre doldu!");
       }
     }, 1000);
   }
